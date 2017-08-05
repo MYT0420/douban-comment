@@ -34,3 +34,4 @@ class comment:
 Url = 'http://movie.douban.com/review/best'
 C = comment(Url)
 C.get_movie_comment()
+# __author__ = 'MYT'
